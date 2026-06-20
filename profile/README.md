@@ -1,6 +1,6 @@
 <div align="center">
 
-![HumAssist Banner](https://raw.githubusercontent.com/HumAssist/.github/main/HumAssist-Banner.png)
+<img src="https://raw.githubusercontent.com/HumAssist/.github/main/HumAssist-Banner.png" alt="HumAssist Banner" width="100%">
 
 # HumAssist
 
