@@ -1,6 +1,6 @@
 <div align="center">
 
-![HumAssist Banner](/HumAssist-Banner.png)
+![HumAssist Banner](HumAssist-Banner.png)
 
 # HumAssist
 
