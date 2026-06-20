@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Upload banner.png to this repo and uncomment: -->
-<!-- ![HumAssist Banner](banner.png) -->
+![HumAssist Banner](https://raw.githubusercontent.com/HumAssist/.github/main/HumAssist-Banner.png)
 
-# 🏡 HumAssist
+# HumAssist
 
 **Open Source Home Automation**
 
@@ -13,7 +12,7 @@ Home Assistant themes, custom components, dashboards and configurations.
 
 ---
 
-### 📦 Projects
+### Projects
 
 | Repo | Description |
 |------|-------------|
